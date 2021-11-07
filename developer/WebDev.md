@@ -14,7 +14,7 @@
     - [자격 요건 수정. 해당 없음]
     - 월 5회 이상 웹 개발에 참여할수 있는 자
 #### [우대 사항]
-    - HTML/CSS 혹은 express.js / vue.js / React.js를 이용하여 웹을 만들어본 자
+    - HTML/CSS 혹은 `express.js / vue.js / React.js / BootStrap`등의 프레임워크를 이용하여 웹을 만들어본 자
     - [해당 없음. 추후 추가 가능함]
     
 ---
